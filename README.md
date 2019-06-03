@@ -2,5 +2,4 @@
 A local training enviroment for Tensorflow
 
 Info: 
-Used - python 2.6.8
-     - tensorflow-2.0-alpha
+Used python 3.6.8 and tensorflow-2.0-alpha
