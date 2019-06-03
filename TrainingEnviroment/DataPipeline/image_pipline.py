@@ -7,5 +7,6 @@ import pathlib
 import random
 import os
 
+AUTOTUNE = tf.data.experimental.AUTOTUNE
 
 
