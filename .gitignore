@@ -1,6 +1,8 @@
 # Ignore local virtual enviroment
 venv/
 
+# local vs code
+.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
