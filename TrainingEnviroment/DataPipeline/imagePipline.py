@@ -26,7 +26,6 @@ def prepare_images(path_to_images, width, height, channels=3):
     label_to_index = dict((name, index) for index,name in enumerate(label_names))
     all_image_labels = [label_to_index[pathlib.Path(path).parent.name] for path in all_image_paths]
 
-
     return all_image_paths, all_image_labels, image_count
 
 
